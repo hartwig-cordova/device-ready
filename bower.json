@@ -1,0 +1,28 @@
+{
+  "name": "device-ready",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Oliver Salzburg <oliver.salzburg@gmail.com>"
+  ],
+  "description": "Promisified 'deviceready' event for Cordova",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "cordova",
+    "deviceready"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hartwig-cordova/device-ready",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bluebird": "~2.9.30"
+  }
+}

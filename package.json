@@ -1,0 +1,26 @@
+{
+  "name": "device-ready",
+  "version": "1.0.0",
+  "description": "Promisified 'deviceready' event for Cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartwig-cordova/device-ready.git"
+  },
+  "keywords": [
+    "cordova",
+    "deviceready"
+  ],
+  "author": "Oliver Salzburg <oliver.salzburg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hartwig-cordova/device-ready/issues"
+  },
+  "homepage": "https://github.com/hartwig-cordova/device-ready#readme",
+  "dependencies": {
+    "bluebird": "^2.9.30"
+  }
+}
