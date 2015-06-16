@@ -1,0 +1,8 @@
+# Local WebStorm project files
+.idea/workspace.xml
+
+# Downloaded NodeJs modules
+node_modules/
+
+# Downloaded bower dependencies
+bower_components/
