@@ -1,6 +1,6 @@
 {
   "name": "device-ready",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Promisified 'deviceready' event for Cordova",
   "main": "index.js",
   "scripts": {
